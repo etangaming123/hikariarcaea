@@ -1,0 +1,6 @@
+__pycache__
+.vscode/
+*.json
+hikariarcaea.code-workspace
+.DS_Store
+hikariarcaea.bat
